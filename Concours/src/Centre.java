@@ -22,7 +22,7 @@ public class Centre {
 	public void setNum_cen(int num_cen) {
 		this.num_cen = num_cen;
 	}
-
+//test
 	public String getNom_cen() {
 		return nom_cen;
 	}
