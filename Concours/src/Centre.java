@@ -15,6 +15,7 @@ public class Centre {
 		this.lsalle = lsalle;
 	}
 
+	// test
 	public int getNum_cen() {
 		return num_cen;
 	}
