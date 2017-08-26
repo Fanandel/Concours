@@ -1,3 +1,4 @@
+package Model;
 
 public class Note {
 	private int num_note;

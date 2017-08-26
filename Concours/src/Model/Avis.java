@@ -1,3 +1,4 @@
+package Model;
 
 public class Avis {
 	private int num_avis;
